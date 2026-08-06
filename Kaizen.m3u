@@ -324,11 +324,14 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/in
 Koleksi TV Pengetahuan
 //========================================================================
 
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-country="UK" group-title="Knowledge",BBC Earth (720p)
+https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc32fe8b8e0b4b849724d4a34e390c83:62a98c5670883a0a034df0c27b435a5e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6GjniYgn__r2LYYhPiDptq7ZSLFijQAbJ4DextSCvOJE3jGhIEFfs06RYThjXzE995nPUE7YIh2oRetJpiYxK0Ip6mMzq_M0ADZZ95uWprAWRRMg_HJBPaTcAnU7fm6nlCRTKlkkBP4b42ORKl2l2b_ZXq1aD9zyNOBhf1mS3sfV9dDLm_cJ01LYCQmY/s700/History.png" group-title="News TV",History
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6GjniYgn__r2LYYhPiDptq7ZSLFijQAbJ4DextSCvOJE3jGhIEFfs06RYThjXzE995nPUE7YIh2oRetJpiYxK0Ip6mMzq_M0ADZZ95uWprAWRRMg_HJBPaTcAnU7fm6nlCRTKlkkBP4b42ORKl2l2b_ZXq1aD9zyNOBhf1mS3sfV9dDLm_cJ01LYCQmY/s700/History.png" group-title="Knowledge",History
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
