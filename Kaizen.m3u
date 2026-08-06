@@ -483,6 +483,9 @@ http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux5
 #EXTINF:-1 tvg-id="xtremsports.us" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ0tgeujIMDVfBQ-zVrzm6ZAKPnMS_p_MFXfBUz9hNOWYZz8SkTQo6AQJQyrvNbItI4uu7bh4di1V3QFgFB-H3Hid8FJyQfefz6JUSVOjvgDqDrD7Yn2en0EKMi8jVe7o6-ctQ1frJjrmRYnFl0JSio6aIHNkNKFcSi7qzSRxjd1oyhc2xXNBwweSgBXU/s700/XtremSports.png" group-title="Sports TV",Xtrem Sports
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 
+#EXTINF:-1 tvg-id="701" tvg-name="AXN" tvg-logo="https://assets.astro.com.my/channels/axn.png" group-title="Sports TV",AXN HD (CH 701)
+https://stream-placeholder.astro.com.my/live/ch701/index.m3u8
+
 //========================================================================
 Koleksi TV Hiburan
 //========================================================================
