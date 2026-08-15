@@ -53,7 +53,7 @@ http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
-#EXTINF:-1,ANTV
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png" group-title="National",ANTV
 https://beetv.my.id/stream/vd.m3u8?ch=antv
 
 #EXTINF:-1 tvg-id="tvOne.id@SD" group-title="National" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBG70QUh2fSQOp5ueyAtWfhGYoGTA5h7WfI8eXj5hfrtez8EbmBmI7FL9jpUdoACvgFp83D_wWQgQnrHHWZW5Y4yuz5F0JnlnMfj94_Fl2CF09kDtWgDnI0R2_rSKQW0uqahChzleBnjMZrQFo1yn99UTafh8JnbsictKetG6_5QdMgf0BP53l4wa2Cy4/s700/TVOne.png",TV One
