@@ -83,6 +83,9 @@ https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8|User-Agent=Mozilla/5.0 
 #EXTINF:-1 tvg-id="CNBCAsia.id" tvg-name="CNBC Asia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlvJJpia4b4gO_GuLrv_TlCuh9ZobeW-TLDOpbewGW3FP7K7k3t-IO1qQQiabk1MVuAYwWe4__WbbhJ7GG6cb3RIPhl95weZsPL790_AQOY8GlTMadkJwNgXlqMsp0ex1PmDIht-34BsbAH6n1kQAiQ8D8YeOmytLKUcB4h9DfGlbQOn2w_ChiH4UFnOk/s700/CNBCInt.png" group-title="News TV",CNBC Asia
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd|User-Agent=Mozilla/5.0 (Linux; Android 14; Google TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 M1 Safari/537.36&Referer=https://www.visionplus.id/
 
+#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-name="CNA International" tvg-logo="https://i.imgur.com/xWglicB.png" tvg-country="SG" group-title="News TV",CNA International (480p)
+https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8
+
 #EXTINF:-1 group-title="News TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC6JcBSP6bE_BHLCY-Srer0iebSmDTzkwKtCAWAYUFyG2oCvW5eAe2ZGXmsUckU8De7gdtYkXe_nqNgXhf6Bsefxo3G3mNt5Qag9i0ga056UnTEPbqjrHa-P_KCc8I4D4EntITQNVMjZZrMAOpuErltwPb1GQ_cDQQcf0e18xfCdgrwR3iLcV29MjspOE/s700/NHKWorld.png",NHK World Japan
 https://cdn-7.pishow.tv/live/455/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Google TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 M Safari/537.36&Referer=http://www.dens.tv/
 
