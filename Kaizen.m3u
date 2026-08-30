@@ -10,6 +10,9 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8|User-Agent
 #EXTINF:-1 tvg-id="RCTI.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXlEcSEekqhGviiAmUldsTJ1jN9uivGiviyg2wQjDQqoYjH5pVw-MdvOP2pBy_TMmjqCMZmmL1HX7Q2LWyYEUqGnttdmeob246IwJnXpIiiPCIDciLsIpCk3Vs6rlnog0vhSnT66hclbpq7rfmcV9719WHu4uqsOOT3dO_m-p9yeP7AeABFgAcVrYYJfQ/s750/RCTI.png" group-title="National",RCTIᴴᴰ
 https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" group-title="National" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI HD (720p) (RCTI+)
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0&Referer=https://m.rctiplus.com/
+
 #EXTINF:-1 tvg-id="MNCTV.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghyguY0mNaYhCI1_A_w7xgLhlhAKMeKD_wBcdme7qkfoRNMnU79mwJFmgIe-f0-B7bjYZZBRFKpFs33uO5KNxUkQRmQ2FyFEL4T6NrH2DspesiUJEpHoNyy1-t7p6efMkOe4d3q4Yle7K_OUk2TMlbHEqeAJUqJFHM2N1Ovd3VKNWw1PFMgHGNIYib7Ro/s750/MNCTV.png" group-title="National",MNCTV
 https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd
 
@@ -20,6 +23,9 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv|User-Agent=android-R+&Refe
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/330px-SCTV_Logo.svg.png" group-title="National",SCTVᴴᴰ
 https://tvratu.my.id/vid/index.mpd?id=204&type=dash|User-Agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36&Referer=https://m.vidio.com/
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV.id" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" group-title="National",SCTV FHD (1080p) (Vidio)
+https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&Referer=https://www.vidio.com/
 
 #EXTINF:-1 tvg-id="Indosiar.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDH9fdJcCyHmxEtNgxnVBDricERsbs-Um-VxtGjIdM1TUDOKhg_K-jqzFGRAxjHp8TzQ6LC7UHWzeEzZSVAioAtqgeFVE0E9TM1QmcAwBU9VxxbLPnfAFl3FjpxiwZThPLn3xskcWKZ6QoyGhh3NuLWr9G7-YdJxUuEqm3a0fP2Hejdu9XNxmYrlTV3Ss/s750/Indosiar.png" group-title="National",Indosiarᴴᴰ
 https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
@@ -38,7 +44,10 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=antv|User-Agent=Mozilla/5.0 (Windows NT 
 #EXTINF:-1 tvg-id="tvOne.id@SD" group-title="National" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBG70QUh2fSQOp5ueyAtWfhGYoGTA5h7WfI8eXj5hfrtez8EbmBmI7FL9jpUdoACvgFp83D_wWQgQnrHHWZW5Y4yuz5F0JnlnMfj94_Fl2CF09kDtWgDnI0R2_rSKQW0uqahChzleBnjMZrQFo1yn99UTafh8JnbsictKetG6_5QdMgf0BP53l4wa2Cy4/s700/TVOne.png",TV One
 https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-id="iNews.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXwidwXi8K3rIvOAzFa6cRAwnjmuYcb09LNq-gJgsyEoibjlQyh_8CJ-o-nYWEVAxb8dd4DThEBGTEh1RBZmrfcxfBbjBSxcn2w63qrFXvPmF-UKBAiHxxrMlhAKMDqTgy-VhitYUfA7r-T7eD4ewnO7u0fEcF7kWtUiW5OD5BmfSQhpbI8fzyrEhBcJg/s700/Inews.png" group-title="National",iNews
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews.id" group-title="National" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png",iNews HD (720p)
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0&Referer=https://m.rctiplus.com/
+
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews.id" group-title="National" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png",iNews HD (720p) (MaxStreamTV)
 https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="KompasTV.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKfJ5RRZOF3TWOhJa375DNaHAPToZ3uHwJQr2X5VJwYEE-SuC0UKEqtS1p2Wh6KENiiMnqDQbAW_1I6seQjE_0YaWAjze82RB-MY_6SbZRxWayxVLl3Q_5lqXd_RwIlx2Ikvp91Hi0renWDz1KbjoWnKTQDV9pN90kn09yWOK7fhWx6s9RSCJTinEqDxo/s700/KompasTV.png" group-title="National",Kompas TV
