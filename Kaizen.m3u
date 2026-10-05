@@ -10,6 +10,11 @@
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://shorter.me/yKOXu", 20:00 WIB Indonesia vs Thailand
 https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://shorter.me/yKOXu", 16:00 WIB Malaysia vs Vietnam
+https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
 //========================================================================
 // Koleksi TV Lokal
 //========================================================================
