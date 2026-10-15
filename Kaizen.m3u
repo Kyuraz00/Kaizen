@@ -51,8 +51,8 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/34
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" group-title="National" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinj8KT_z7FwUCMwNyFGKXAeKPA9rnkwJ6yXvTuVjcu7YHzu6VjdkN1JDbNadY7gTSsQ6IdyRWYfqMjLvE6ftHORYm6GcaOJDyGASuoWrAon-ThWWnlOblD0Ptaq5ZhCxubAxSf_xn_F8wFh_-YS_hhHxjnp-ePfiPIqTJB-Lgt3iE49h9hp-qlzRbDhsM/s700/Trans7Logo.png",Trans7 II
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/33
 
-#EXTINF:-1 group-title="National" tvg-id="ANTV.id@SD",ANTV (720p)
-http://103.58.160.157:8278/720-ANTV/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV.id" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" group-title="National",ANTV FHD (1080p) (Vidio)
+https://beetv.my.id/xstreamx/vd.m3u8?ch=antv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&Referer=https://www.vidio.com/
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png" group-title="National",ANTVᴴᴰ (Vidio)
 http://tvratu.my.id/nissa/index.mpd?id=782&type=dash|User-Agent=VidioPlayer/6.31.6&Referer=http://www.vidio.com/&Origin=http://www.vidio.com
