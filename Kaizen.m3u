@@ -51,6 +51,9 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8|User-Agent=Mozil
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNKhhS3DiPAuSmWryFr6AzZDPquV22EKo3hf-PvsFm83qQA3gAvPs1VmB_vylBEced6Aok9FTFBEnJMTsJt51nJsgCdCFzk4jSsa1EBH8lCSW2KKd9R52idKqfyhKEgnFtt_-E-6NyMZkX2Ihld3iEoK-AMO_wnUtG4CtnX2n4Lhn5rJatbtys1qGfsPE/s750/Trans7.png" group-title="National",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Google TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
 
+#EXTINF:-1 group-title="National" tvg-id="ANTV.id@SD",ANTV (720p)
+http://103.58.160.157:8278/720-ANTV/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png" group-title="National",ANTVᴴᴰ (Vidio)
 http://tvratu.my.id/nissa/index.mpd?id=782&type=dash|User-Agent=VidioPlayer/6.31.6&Referer=http://www.vidio.com/&Origin=http://www.vidio.com
 
@@ -237,11 +240,20 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rckhgp0mdp/
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglCvJWT-XG5HQV1ILnZR-V9QqstGyyi9tGtnsOC5kOYLTNYh2tUvdj3QEKHYrws_54ht5mPZb7Nd0XZBnNll8c-Zkm9PPYhBHl5pK2Zu2dcY1DyzRMAzIf8Oe1O35mXc7jYhVcjAhxAM1zm5i82G28z3A45JNXZYPPRLq4p8G4Q61wnb-BNs7MUAlMgXw/s700/NewKMovies.jpg" group-title="Movies TV",New K-Movies
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_219&mpf=adfc204d-39af1962-13a2f01a&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b62c2c8b-8316a771-295eba28-f4663ddd
 
+#EXTINF:-1 xui-id="29" tvg-id="" tvg-name="ROCK ACTION" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHHPk6D7t0dq3fC7Kty7S2Uej3bObR0TIcg0du8s7nI9O_wQ-B-UTBcn7tNc5oJcTIdbP-y6pnpEs8jZFgU7z7L7GEQs2zyMknzbJX4hvfIwFOrcDzPiJPGSFLKnKwH1lTrtXT_eD7fGBmM_XhVgGMcrASlT9-Af6-X95rm7ruJBK8sHM-7jAO-n4kSDY/s700/RockAction.png" group-title="Movies TV", Rock Action
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wxQl-OzUL4uqgJjSsfK1CXY
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="Movies TV",Star Movies HD
 http://66.102.126.10:8000/play/a021/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="Movies TV",Star Movies Select HD
 http://66.102.126.10:8000/play/a020/index.m3u8
+
+#EXTINF:-1 xui-id="37" tvg-id="" tvg-name="HITS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifg78FMqX8Q-jmczFwc6p8wjyK2FD1Nxs0RryHjz_BX8x3jiv-o1j4wFfePJZulPa8gUY1vz2Zdx7U5u4LDxYOJEI77Ek8p9ghnofFckbKDpIESbOL-I3cS7mL7k0Ibmc8EHziJKGCiNNPeyBa_Wvc-zBawRzgj3AQAivte59Lh39okWiZ_GmturuPWO4/s700/Hits.png" group-title="Movies TV",Hits
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4oZ_FTf9wGwZ3HxAFmxh1ng
+
+#EXTINF:-1 xui-id="38" tvg-id="" tvg-name="HITS MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8WFaYm0vrVuig8hygl3IjtpOVw2VlGqrLheOkxoTlBmC40tyRsvf6TwTodCUc8RUBj1IEpWvlJaTNYbbojwZh-PnVnpcIb0i9VPnaDSt8O4_PvB08JhSk6aW0bz9NqOwvOffmvAMXnAuLRSCVyaSgZfqXCATMi-eGbdIY5wuJoYjveqD37i9E92hl7yU/s700/HitsMovies.png" group-title="Movies TV",Hits Movies
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4uIKb5jr_E6ic3jYG-lTvq8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
