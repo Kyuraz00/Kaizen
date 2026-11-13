@@ -152,12 +152,12 @@ https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcngwyXwt7Ys9jELWvb6xZU9U
 #EXTINF:-1 xui-id="12565" tvg-id="" tvg-name="ID: Bein Sport 3" group-title="Bein Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1gsS1kCZmTR8y15ceyouyuT8ISxywxT39Sa-oD4py3kv3mCR_PWkbS1BbycgIIcfBv0iH7S2N3wPmW6Ae561soASsPNTtJQCZLsT01bc_dU_Q2j2G8OZ0pAW6eae5K8U3zk1KH1tZ2vkLJPF_VPcc7Bnvx-1qKjrYAxYdYNLNCp3S5Saqu6tYRUcRVyY/s700/BeinSports3HD.png",BEIN Sports 3ᶠᴴᴰ
 https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnghdoOa65kFdxlOn5l1VoLU
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-#EXTINF:-1 tvg-id="beINSports4" group-title="Bein Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQygjEQ0AeVeCdX_Fxu4UDTzMD5YPPl-vHspDrI0u8x5Mot-inZc8f5nV5il9GjivU4BPfcBZMbxK1UKWRkjTqey2YzwIzwcaNMdUzQMk4tlyZTrsT5L8oZ84Xrw4YaWENVDKVQBGp3xQeGHTtI6-8zB7W-yWN2CZfq-KIHHsmlDmVdMt8_sXunY3fju8/s700/BeinSports4HD.png", Bein Sports 4
+#EXTINF:-1 tvg-id="beINSports4" group-title="Bein Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQygjEQ0AeVeCdX_Fxu4UDTzMD5YPPl-vHspDrI0u8x5Mot-inZc8f5nV5il9GjivU4BPfcBZMbxK1UKWRkjTqey2YzwIzwcaNMdUzQMk4tlyZTrsT5L8oZ84Xrw4YaWENVDKVQBGp3xQeGHTtI6-8zB7W-yWN2CZfq-KIHHsmlDmVdMt8_sXunY3fju8/s700/BeinSports4HD.png",Bein Sports 4
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36&Referer=https://www.visionplus.id/
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 #EXTINF:-1 tvg-id="beINSports5" group-title="Bein Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVyEgyELSuWsPOEO9Q5-kccYKoqYjIo7XOsfbYTr4Ptle8fza2kRQg2WyfTMLRiFfao_IhDNC7MjcOEyKmGBrSeF4rjdPA_hSBF4HGsf4u8gLuQ6tnMKKVxIXc08gIbPNAVmb8aX0mVKABzsyJfyWhJ-1LQcJXQWTzayEntlQ1tq2ZbAQKS0i9la2UwYU/s700/BeinSports5HD.png",Bein Sports 5
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36&Referer=https://www.visionplus.id/
@@ -177,8 +177,8 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #EXTINF:-1 group-title="Bein Sports" tvg-id="beINSports3.au" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSAjYHP-BR8AZ6TORfZ9UJ6D9_iUL89k79m8xu_YUP9j3usW2p0TdiNUbrJitC5FU1vv-sifEUhuyrEcTvTbsdyk29U0my6ywL4Yaxhe5xgGo4iCZ3cXoV0HwKJluqDUHNedoO-NoU-N7GgFM17A8HsWMdU_WKUQ2_fH62mlx6Y5p9WrCTa3tJkaKUuS4/s700/BeinSport3.png",Bein Sports 3 🇦🇺
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsGWTAQviyRh0f1b7TusT7uGtq8IclovbNiXfHrc4YjfwlzuROp5mQniRRsu4citQR1enyfJFoLtIRp7MTt35-6EyUYiLV3yVnaJAm89vArCN_1DXRhI-65YGaiy1-lXRKR-YHhYc2ge0-B6dsG8QTIGP8j5bgfT5i1xrJCXvfMxjYqx-3iibwYcsNQIU/s700/BeinSportsExtra.png" group-title="Bein Sports",Bein Sports Extra
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8|User-Agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&Referer=https://www.indihometv.com
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsGWTAQviyRh0f1b7TusT7uGtq8IclovbNiXfHrc4YjfwlzuROp5mQniRRsu4citQR1enyfJFoLtIRp7MTt35-6EyUYiLV3yVnaJAm89vArCN_1DXRhI-65YGaiy1-lXRKR-YHhYc2ge0-B6dsG8QTIGP8j5bgfT5i1xrJCXvfMxjYqx-3iibwYcsNQIU/s700/BeinSportsExtra.png" group-title="Bein Sports",Bein Sports Extra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [END] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -323,62 +323,70 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd|Use
 #EXTINF:-1 tvg-id="PlutoTVAnime.us" tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Pluto_TV_logo_2024_black.svg" group-title="Kids TV",Pluto TV Anime
 https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" tvg-country="US" group-title="Kids TV",Disney XD (720p)
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-
-#EXTINF:-1 tvg-id="DisneyXD" tvg-name="Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids TV",Disney
-http://212.5.144.156/disney/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsI3IieBzN9pkk6qoaN819ymhllQ_i0_QeW_B9q2a5AHIJCVv0rLkwPhbqKjiNOUUMv0grvG8ZEZIpKpnJJTc2lxXrWzDUNPFaLhIEwp9MX5IIe7C-3CPjjvmhoRlhq88_Dr_IC6x5Z7nRLfeSdDM_mYqqv_RJMfWmoy0RZEGeafkptyGAWhuNAgByh8c/s700/EnglishStudy.png" group-title="Kids TV" , English Study
 https://flv.intechmedia.net/live/ch83.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64)
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Uib8u6WC-v5A3kLK3tPQFUJ7CnCDhMh4DbJuhC8Dbz72IunIlHBrRC_yM0-qWFLwlMD4CMdUXO_TfL3GZP3pUcQAv5KxJJhTDV99mbgllawp6-BriXE297AMdEw3-0JH8tGTgf5W52OTVEKpqiLWzv4U5qOA0rnrO9fHP3w5WcLkXiAfwF_5fewz3QM/s700/DisneyChannel.png" group-title="Kids TV",Disney Channel
-https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsI3IieBzN9pkk6qoaN819ymhllQ_i0_QeW_B9q2a5AHIJCVv0rLkwPhbqKjiNOUUMv0grvG8ZEZIpKpnJJTc2lxXrWzDUNPFaLhIEwp9MX5IIe7C-3CPjjvmhoRlhq88_Dr_IC6x5Z7nRLfeSdDM_mYqqv_RJMfWmoy0RZEGeafkptyGAWhuNAgByh8c/s700/EnglishStudy.png" group-title="Kids TV",English Study
+https://flv.intechmedia.net/live/ch83.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64)
+
+#EXTINF:-1 tvg-name="Baby Shark TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2NVNe4ZOwkYlhgY6o_2DUVpI4mpiZ2p6QOYBxU-ez2gowBLy8qFJgCHW8MGkqTKkkWmUVJxsldUQPiPZFlstPi0vJuUHjHQz-PMkoKEoeyvvJWf4GuUL7KEVdMMOjKWcTSk1xUuybKFKOhUr1BwSvEtfTNyU8Et6oqH9jkOnAbzHSUff1TiMWYr7ZTc4/s700/BabyShark.png" group-title="Kids TV",Baby Shark TV
+http://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 xui-id="9512" tvg-id="SPDISHD" tvg-name="DISNEY CHANNEL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Uib8u6WC-v5A3kLK3tPQFUJ7CnCDhMh4DbJuhC8Dbz72IunIlHBrRC_yM0-qWFLwlMD4CMdUXO_TfL3GZP3pUcQAv5KxJJhTDV99mbgllawp6-BriXE297AMdEw3-0JH8tGTgf5W52OTVEKpqiLWzv4U5qOA0rnrO9fHP3w5WcLkXiAfwF_5fewz3QM/s700/DisneyChannel.png" group-title="Kids TV",Disney Channel
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4hXOd_Wx2_velG0zFEpZ-OT0Yp4wxD7HRY7o3QhtHeyc
+
+#EXTINF:-1 xui-id="9513" tvg-id="DIJRSAP" tvg-name="DISNEY JUNIOR" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheW7H4blAnKlgihdRWkG1phA3lRPWY-2LlS_qE4o0yromV2yOUz0GEtW0xMNYp5n96TnFtx1usBzsLJ9by9S3n_ENA-pj9qeyLWeYQyJwVotkvwqVrETTM38jCPMUJECMybr4xRkdjFZI4f61BHPwV2hLzFeWO_XKnev0IXQnVbtjiVOWxhR_whevuI1o/s700/DisneyJR.png" group-title="Kids TV",Disney Jr.
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4nUg5jpLMiVh3WR9QttTXR9hPXv0ANHa8ptvPM_WHfKe
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d
 #EXTINF:-1 tvg-id="discovery-kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSt9l2QACR6yMjNpPyStFNWO2j5a7l3jQEpQihyBy7gElIUw7BM1HZAlzWoR6_GoCUAh__DfaY4de9e6YX1s34Iapctt_0MtrQ9oegX-0BlvGYfz73-eIwVw_Brsg3g8D4Pq4AWSPWv8F4CxdXA22IODiSfMjE5YhK0TFJWSVqIV9nQkEXeyICnDEhwso/s700/DiscoveryKids.png" group-title="Kids TV",Discovery Kids
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ZVYJ5VbrTjjUqVM7x2xILxhpmYeFv076zJJMKY10b3fy_DhXnOk85fFNz-PNYiyHhYmdRu1_a0VrXQOsraN1yzTKlz-4ILemXla8Tac7yP2ohgnZc1PisPl3gUlotpKLy9znTDwwPRmOM6l93ITUsKPJGwN3XBz7SJGt4IORa-6u-vABkmRk4Mzq8Qk/s700/BiznetKids.png" group-title="Kids TV",B Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVmUGDklWu9grNkm2wmsUsD11xOZahUKzDqnd8nv8EDeJiy2aM8sZtxLrRg5jGvApSCf9dEXfcupfOLbkoMuoR-IVxXHOu3FfrPS0Zcvx0XQKHCl5PQVb1imoxnokw0ArrLTFp4FmCn3sj6kDb0-EfkgF7T-r1YGlf1anQXy6rntgr2XbNG6XKcPCi7d8/s700/Animax.png" group-title="Kids TV",Animax
+https://iptv.lancartech.co.id:443/WawanJKT82/12345678/169
+
+#EXTINF:-1 xui-id="128" tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQGSUJVjomtgIeNzmKI193GHHDnraBkLFfIqpJSuW672ci0Rg2B1BFZGNK7Lfd-c0RQVuOoN4GQ3-V_vYnmsxl9MxPIRQAbYMg0SDvipzH6_A2biSagk4k9rIikiI-9wBTkUOQcdlfJH5S7ZkV9yW2WsHZHvZV-4J_ZXG8p0FQyzz0gcMiFMaSlVIqTDo/s700/Aniplus.png" group-title="Kids TV",Aniplus
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4osDsX2mOO5Da1xbYpRu4Ro
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0yoo4e22LVhUPOQb8DXPQLG5FAo4CA-1bw6u1sib9wjvOfNpGo48a6TK4rLLv5A64h1FILBDMY4HNvyLWjjGorUDv3EYEFblrOsvFJGnsT7jL3WSJGKu9Ixi3r-toO9aYikBSRTp-YrGV5vpQVmb0Pgof843XhcNBXhLURdrFjg_pugnPQNoyk4vuwAM/s700/CartoonNetwork.png" group-title="Kids TV",Cartoon Network
+https://iptv.lancartech.co.id:443/WawanJKT82/12345678/174
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=67
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJXsngAowndYuy-3suOhQoiwQzZ5OTa1BU2FX2__JAB6ZZk4nFQxBkdN10ashhAsHmCY0NSDN6EY27Fg_WfF22_ic06scdzdJAtWOlXkV4jh-eWEwmJfnXuZ6wo1s60WzrzNA4xf4_bHb6GTUDmVLfNIBUWwwF25r5BXYTjeOEoHUegRjo1vQ_ENU9ets/s700/Dreamworks.png" group-title="Kids TV",Dreamworks
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
+#EXTINF:-1 tvg-id="Cartoonito.id" tvg-name="Cartoonito" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjRjwR1PshsT6dICGypyfHCLlCQI11UTaYlBhNlpPAln5sTlFWn6CYRyIuWQ0qe2tj4IB4-B_s-qqyH0dXmQKL5iyDQL1PDbSseWExYLyrX0FxO8y0e1v1QE9OU15N7UjG2rin0hXh4ppePE3VrQsF4e3m__tzRRdNd4EN_rp2kwPNjsOMdj3zisHenQ4/s700/Cartoonito.png" group-title="Kids TV",Cartoonito
+https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoHD.mpd|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqC6WGeRakXosGi173XAxNqptOV3u4BhN0HlozmJziWToEvdevGzy8BIPjJquzuANJ2RRqZbsmQ-UJ9b_RA7F5xrq7dXVb3w_KuclsWxRN8fo8pKLggaUe9gEFCTIJbh8mpeVpuCevErVwY9_yCs-d83QYewT0nNwSLGFMK0oS-KBiWxDHwjUUA3jLjRo/s700/Moonbug.png" group-title="Kids TV",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
-#EXTINF:-1 tvg-id="KidsTV.id" tvg-name="Kids TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm8n0m15dXKFPvkf9SlhZCLlnnWL9ROZAB-z52g9KbwAl8kFquuVEtZm2S2GEazIDantBXNx8mf1DpC25grzUjP8obIsj0i0RHOaQK0t-PlWvbbgmqdDTdqAtOEqIFmYj2PtD5-jfaR4HkOPwzohyHfIbcIzQtB_HIPgm21hi1JBII3lKG8qXQWXWAY0s/s700/KidsTV.png" group-title="Kids TV",Kids TV
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd|User-Agent=Mozilla/5.0 (Linux; Android 14; Google TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 M1 Safari/537.36&Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=64&type=drm&token=KITKATTV
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbuUPgW6lYls5ztcqf2_g2c0qu2fCK2-EfEZ7uN8yr7gcIxvuFt9Rmz8jlMmtVOY5P72brdnsJAUbpG9POQZD4ChYZdea7Wo4nXLZPwXhPJSrisIgQnb79sXXgH5sVNr5QgOO2cC_XY8zCk2POlKuCF4mqdQm4-z3yvm2NU79HrPx7zAJR5PPHTNU_2Es/s700/Nickelodeon.png" group-title="Kids TV",Nickelodeon
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=60&type=drm&token=KITKATTV
+#EXTINF:-1 tvg-id="NickJrAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMdvm0WHstWa0a4oYRUmFUPN5jNpteb-n4B-KCyRWSEoAhNcEi8aTtOCk60cYl3jxHavKOBWFO2gQHUzAZ3TwHIt5ZzfTSUEDWah6h5B1zOhcFXDdZdeFU1YauZtA4uwBBJfK8QV-ywyykTnCVhjaSJscKVH3dsW6Atlg7FbwRPY4-ZnlPvj0WX2EOdhE/s700/NickJr.png" group-title="Kids TV",Nick Jr.
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.visionplus.id/
 
 #EXTINF:-1 group-title="Kids TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2NVNe4ZOwkYlhgY6o_2DUVpI4mpiZ2p6QOYBxU-ez2gowBLy8qFJgCHW8MGkqTKkkWmUVJxsldUQPiPZFlstPi0vJuUHjHQz-PMkoKEoeyvvJWf4GuUL7KEVdMMOjKWcTSk1xUuybKFKOhUr1BwSvEtfTNyU8Et6oqH9jkOnAbzHSUff1TiMWYr7ZTc4/s700/BabyShark.png",Pingfong TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=de9b995d2aba32bae1c5dbe38a46f2d9:a2d94fdff16e9c332164a73f8b170bd3
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqC6WGeRakXosGi173XAxNqptOV3u4BhN0HlozmJziWToEvdevGzy8BIPjJquzuANJ2RRqZbsmQ-UJ9b_RA7F5xrq7dXVb3w_KuclsWxRN8fo8pKLggaUe9gEFCTIJbh8mpeVpuCevErVwY9_yCs-d83QYewT0nNwSLGFMK0oS-KBiWxDHwjUUA3jLjRo/s700/Treehouse.png" group-title="Kids TV",Treehouse
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqGMNQilL8qGq2qSLFa54WH-_7yVMMibnNq88YWja3jZswu9Hcl1kUic9W1IQKuFx0LSHhohn4iDYmx9c-9eLssFZhsMZtSd-kyK-F8CQPM2JiuEwP60232br0PaX9oL-b0j6_f74fSashFme0s6LBDqQNc-9k4UQhbDUgy-QzDktgAuAAUOKTb9fUnXU/s700/Treehouse.png" group-title="Kids TV",Treehouse
 https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7y1plnj/out/v1/0c87bd17ab474015b77c0f3028190f78/cenc.mpd|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 
-#EXTINF: -1 tvg-id="baby first" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXkAmzjJ9rsSxUpJYUWf9iB5edoA8W_vrdZO7fGG6xo7TXu2Rx2kfxWM1OWUzdVMIlZqyi3aPfS0Xd0EebEVL2zkm2wL1HDRQ0pCKzSkLDOLkv3Y9ePjtgKl9E2w3cGrhxuw5ajR21tdxhkqghTviUReIy48ksZuqsTSuDo5cH0wSjlJQctfQbGs4DmW8/s700/BabyFirst.png" group-title="Kids TV", Baby First
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8|User-Agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
-#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpTFHg240Qownpzf9UDDuvTZy54yleXvVWZoLFnM5ZyAyQ2PmrnlsV9O2Jv9nkiNDGoMbh6GyZKOxBo565T4-UkQcmzPTIRBSjY-Voy0yx4cM6919xsZcRdEVaACdL5I4FnqeY7qBypm_cUi5r5EZ8m1pl4oOhaFOSSxnKMKU5vEerShfscDKllzUO1os/s700/Cbeebies.png" group-title="Kids TV",Cbeebies
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd|Referer=https://www.visionplustv.id/
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=676b60c2b84b49b6b316207a590203e4:da9878a96062ea105895f310e052fa7b
-#EXTINF:-1 group-title="Kids TV",Nickelodeon
-https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36&Referer=https://www.visionplus.id/
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
-#EXTINF:-1 group-title="Kids TV",Nickelodeon Junior
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36&Referer=https://www.visionplus.id/
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=58
+#EXTINF:-1 tvg-id="CBeebies.uk@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpTFHg240Qownpzf9UDDuvTZy54yleXvVWZoLFnM5ZyAyQ2PmrnlsV9O2Jv9nkiNDGoMbh6GyZKOxBo565T4-UkQcmzPTIRBSjY-Voy0yx4cM6919xsZcRdEVaACdL5I4FnqeY7qBypm_cUi5r5EZ8m1pl4oOhaFOSSxnKMKU5vEerShfscDKllzUO1os/s700/Cbeebies.png" group-title="Kids TV",Cbeebies
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.visionplus.id/
 //========================================================================
 // Koleksi TV Pengetahuan
 //========================================================================
