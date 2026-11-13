@@ -137,10 +137,8 @@ https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-32777
 🔸🔸 Koleksi Bein Sports 🔸🔸
 //========================================================================
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-#EXTINF:0 tvg-id="id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg61-Vd9Y0ay4NyTnlkszvQIfYbY5ItUnENC0Ef_jm9lY-W1qX4N50CR3FZCWc-CrmZesFThUMhA2C_y_-CQIWVWdwTbRxD9msvqCjVN8Fa4LAJuURNplJlvKQrrsAFFZ9Pg-rY3kTIKIwyNIYfnYRBsbRJ7g9D_S-G8JBcq-wl7T7vPRrkNnjuhENxJnI/s700/BeinSports1HD.png" group-title="Bein Sports",BEIN Sports 1ᶠᴴᴰ
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|User-Agent=Mozilla/5.0
+#EXTINF:-1 xui-id="5434" tvg-id="" tvg-name="ID: Bein Sport 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg61-Vd9Y0ay4NyTnlkszvQIfYbY5ItUnENC0Ef_jm9lY-W1qX4N50CR3FZCWc-CrmZesFThUMhA2C_y_-CQIWVWdwTbRxD9msvqCjVN8Fa4LAJuURNplJlvKQrrsAFFZ9Pg-rY3kTIKIwyNIYfnYRBsbRJ7g9D_S-G8JBcq-wl7T7vPRrkNnjuhENxJnI/s700/BeinSports1HD.png" group-title="Bein Sports",BEIN Sports 1ᶠᴴᴰ
+https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnqQBLMeSryNy7Q7raj9tV5U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
