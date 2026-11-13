@@ -69,14 +69,14 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h40/01.m3u8|User-Agent=DENSGO/3.00.0
 #EXTINF:-1 tvg-id="iNews.id@SD" tvg-logo="https://thumbor.prod.vidiocdn.com/BmeGg2IWkB_FAVPDviCk8gP8qcw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5409/c40666.png" group-title="National",iNews
 https://proxy-v.rctiplus.id/live/web/inews/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="KompasTV.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKfJ5RRZOF3TWOhJa375DNaHAPToZ3uHwJQr2X5VJwYEE-SuC0UKEqtS1p2Wh6KENiiMnqDQbAW_1I6seQjE_0YaWAjze82RB-MY_6SbZRxWayxVLl3Q_5lqXd_RwIlx2Ikvp91Hi0renWDz1KbjoWnKTQDV9pN90kn09yWOK7fhWx6s9RSCJTinEqDxo/s700/KompasTV.png" group-title="National",Kompas TV
-https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-id="KompasTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Beyz7bgq0LkLi9EXe33qiC9a-Ak67EWcvULBRmHfod3WHVxeohGbAnhdM0Gf0OwghuCoA9MBBjBpHNyya9Qgya3TDqM4C2VMmILI1sS1bGRdguj80Ipedr_EvdmwnAgSSLtXrJvT8r-ImBVvnvzaaklPyYTVAQy9ObB6UgmChCNxfM4FMVwQ509P9cg/s700/1000126903.jpg" group-title="National",Kompas TV II
+https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206&Referer=https://www.dens.tv/&Origin=https://www.dens.tv
 
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="National",Metro TV+
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNNIndonesia.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihGq3yBVm_5mI5xqxyxCra_DJuJUMhN2hNs5RcPHhzh-anWutaQraldx4FcOXYCKFrv-qt8r8FERxv1COb_vk6KLKo7Ap8W6i5AKlh54Q8fOR4z5d2md2XL2S6F74QP3LWheGOrHTXEIuAOYJ9j8D_LQAuC279TKyOLwCmVpD863oh6ZrYgwamaaF_p_g/s700/CNNIndo.png" group-title="National",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 xui-id="1" tvg-id="CNN" tvg-name="CNN Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihGq3yBVm_5mI5xqxyxCra_DJuJUMhN2hNs5RcPHhzh-anWutaQraldx4FcOXYCKFrv-qt8r8FERxv1COb_vk6KLKo7Ap8W6i5AKlh54Q8fOR4z5d2md2XL2S6F74QP3LWheGOrHTXEIuAOYJ9j8D_LQAuC279TKyOLwCmVpD863oh6ZrYgwamaaF_p_g/s700/CNNIndo.png" group-title="National",CNN Indonesia
+https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnnCKbXUFE_4q5ugcg5IIU2E
 
 #EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxuB6oKuoedCXi6WjriftDiIaUiNnkom7gqaMmHYP9x5YnpwReu2uNCwfKJsIgBAi4P44Cy4xhceSZcnYhRAS0XZDoXYibrr1JEvlvLOzyF3GqwiNs3U-h5PaLSR6GmEthe6D11IcR8hdqoZ_SUkKvivA0gscVgTgkTY1bD9o5_C3ZeoIWCHv1dTMsHEk/s700/GarudaTV.png" group-title="National",Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8|User-Agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
