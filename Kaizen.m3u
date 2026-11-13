@@ -305,6 +305,9 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY7aX17i1MLwzjV9lly5xQZKhjL-PlQGTE6a-zZARut2q6JiGncL34DFoJCoBNQQLzIv8BI0x_cGjYv_MnJSHqFK6mYX4O6pCmxoV4lWZM6eemHZnCfxR1Syk7El2yJ8EXy6KEpny5EuTWMGYRJ_HIu2dQRRhb7Oo5uavnWsW-Z60_lxFQvcffKySA4BA/s700/RomedyNOW.png" group-title="Movies TV", Romedy Now
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
+#EXTINF:-1 xui-id="22" tvg-id="" tvg-name="BIOSKOP INDONESIA HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN89p3g1gutSqqVTtdki2v2eVNNc5MrdT-5XfyrzB_UbGwPET1v0tkE3AwgIzt4erUi7iCHEHTkW2bjyWwLLroPGpADKvddLj_z-npikcrjxgF35UsmSZ8dGTL1CWYhDEWwC0F3R3mexyqeFRPjEiZvrsgrgFlfyuiV8V55qVMtIR4NUPJhyphenhyphen8H9xjD9PA/s700/BioskopIndonesia.png" group-title="Entertainment",Bioskop Indonesia
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4sV5UVKxOBp03r6iNIkoGnU
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Bioskop.png" group-title="Movies TV",Bioskop (NOT 24 HOUR)
