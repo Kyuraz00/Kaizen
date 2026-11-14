@@ -85,6 +85,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8|User-Agent=Mozilla/5.
 #EXTINF:-1 tvg-id="IDXChannel.id@SD" group-title="National" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpy747ymNH4O5u05WWPFZAWgfZjN6b9jtDQ3S2KjKGFJQ4jknx4zNg-Z-ma16uhrWGuaVob9YUMMPCvA-sgj-u054JJ73QftdaesViR8VJCZ8L-iZi3nVPnyblkcbBCEORJ9fU4UbUDo7xW-W3THBElDxwxo2VDw9ewaTNmMWpWsq96NU7lkglSvmJA6c/s700/IDX.png",IDX Channel
 https://proxy-v.rctiplus.id/live/web/idx/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.visionplus.id/
 
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/CNBC_Indonesia_2025.svg" tvg-country="ID" group-title="National",CNBC Indonesia
+https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+
 //========================================================================
 // Koleksi TV Berita
 //========================================================================
