@@ -244,13 +244,6 @@ http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4oZ_FTf9wGwZ3HxAFmxh1ng|User-Agent=V
 #EXTINF:-1 xui-id="38" tvg-id="" tvg-name="HITS MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8WFaYm0vrVuig8hygl3IjtpOVw2VlGqrLheOkxoTlBmC40tyRsvf6TwTodCUc8RUBj1IEpWvlJaTNYbbojwZh-PnVnpcIb0i9VPnaDSt8O4_PvB08JhSk6aW0bz9NqOwvOffmvAMXnAuLRSCVyaSgZfqXCATMi-eGbdIY5wuJoYjveqD37i9E92hl7yU/s700/HitsMovies.png" group-title="Movies TV",Hits Movies
 http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4uIKb5jr_E6ic3jYG-lTvq8
 
-#EXTINF:-1 group-title="Movies TV" tvg-id="376",Thrill.TV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0&Referer=https://useetvwv.visionplus.id/&Origin=https://useetvwv.visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
-#EXTINF:-1 tvg-id="CineEdge.id" tvg-name="CineEdge" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW-AYJLoFgNp08PLdr5rcgvHGIFO7Yo2Rf3ZJaqa-HFadrPTaDRl_QwPxx7Dd4L1exstlSTtoNRfYYlO8-OV8qfaIGnxuK4wj42N928alT7wCA93uithyphenhyphen-lYUfKCiALBu1McnJf-2RH8uOG4bmtH666sBWW29xNxWYLcQJF2yfwFA5hbfrNZ3B8Kd_Jis/s700/Cineedge.png" group-title="Movies TV",Cineedge
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd|User-Agent=Mozilla/5.0 (Linux; Android 14; Google TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 M1 Safari/537.36&Referer=https://www.visionplus.id/
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0AEC3ZGjCZCxJO_4EfcuHOP-Oc8mCVYtrIsEq616w3Xz8u8ShMmEQkAduc9slK-yJ7XkYPFg2mMHPnFzkTVs4eJ8BaRiK51w9og-Ko-CUiDzPzJJMw6p5DVp5mznayHYHEGZi8XtiWKwzvA-vCfuTcxXWsKtd1yl38_oYalmh56OLruPY9pGFmZjB5XI/s700/MoviesNow.png" group-title="Movies TV", Movies Now
@@ -270,14 +263,6 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY7aX17i1MLwzjV9lly5xQZKhjL-PlQGTE6a-zZARut2q6JiGncL34DFoJCoBNQQLzIv8BI0x_cGjYv_MnJSHqFK6mYX4O6pCmxoV4lWZM6eemHZnCfxR1Syk7El2yJ8EXy6KEpny5EuTWMGYRJ_HIu2dQRRhb7Oo5uavnWsW-Z60_lxFQvcffKySA4BA/s700/RomedyNOW.png" group-title="Movies TV", Romedy Now
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
-
-#EXTINF:-1 xui-id="22" tvg-id="" tvg-name="BIOSKOP INDONESIA HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN89p3g1gutSqqVTtdki2v2eVNNc5MrdT-5XfyrzB_UbGwPET1v0tkE3AwgIzt4erUi7iCHEHTkW2bjyWwLLroPGpADKvddLj_z-npikcrjxgF35UsmSZ8dGTL1CWYhDEWwC0F3R3mexyqeFRPjEiZvrsgrgFlfyuiV8V55qVMtIR4NUPJhyphenhyphen8H9xjD9PA/s700/BioskopIndonesia.png" group-title="Entertainment",Bioskop Indonesia
-http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4sV5UVKxOBp03r6iNIkoGnU
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Bioskop.png" group-title="Movies TV",Bioskop (NOT 24 HOUR)
-https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 //========================================================================
 // Koleksi TV Anak 
