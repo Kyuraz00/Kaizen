@@ -216,17 +216,17 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrczOAhi91JPnNj266sbSCpJXkgGUGPtkU8GwcPDMHoXp8uFJ71s9xDbKh_RQC4B8tVbXuv2jbbMBE3wr4El6IY7gfyAFzK2MxYRPveREzLjdcydAb3USkbHTDlEkUR1y5aXInWw7RDRRAWUlNEAcSqiMF_ute6h9OhymiKecbf1bT5eElWn_2qAMuglM/s700/Cinemax.png" group-title="HBO Group",Cinemax
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rckhgp0mdp/out/v1/3952b81ea31d45b38372b128371301d2/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://embedcanais.fun/images/hbofamily.png" group-title="HBO Group",HBO Family
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbofamily/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamilyAsia.sg@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/960px-HBO_Family_Asia_logo.svg.png" group-title="HBO Group",HBO Family Asia HD (1080p)
+http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://embedcanais.fun/images/hbosignature.png" group-title="HBO Group",HBO Signature
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbosignature/index.m3u8
+#EXTINF:-1 tvg-id="HBOHitsAsia.sg@HD" tvg-logo="https://i.imgur.com/CTjmocc.png" group-title="HBO Group",HBO Hits Asia HD (1080p)
+http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme" tvg-logo="https://embedcanais.fun/images/hboxtreme.png" group-title="HBO Group",HBO Xtreme
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hboxtreme/index.m3u8
+#EXTINF:-1 tvg-id="HBOSignatureAsia.sg@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/960px-HBO_Signature_Asia.png" group-title="HBO Group",HBO Signature Asia HD (1080p)
+http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus" tvg-logo="https://embedcanais.fun/images/hboplus.png" group-title="HBO Group",HBO Plus
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hboplus/index.m3u8
+#EXTINF:-1 tvg-id="HBOAsia.sg@HD" tvg-logo="https://i.imgur.com/cE2gBt6.png" group-title="HBO Group",HBO Asia HD (1080p)
+http://202.150.165.66:8088/play/100-HBO/index.m3u8
 
 //========================================================================
 // Koleksi Film TV
