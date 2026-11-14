@@ -58,11 +58,8 @@ https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8|User-Agent=
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="National",ANTV
 https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash|User-Agent=VidioPlayer/6.31.6&Referer=http://www.vidio.com/&Origin=http://www.vidio.com
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="National",ANTV II
-https://beetv.my.id/xstreamx/vd.m3u8?ch=antv|User-Agent=VidioPlayer/6.31.6&Referer=http://www.vidio.com/&Origin=http://www.vidio.com
-
-#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png" group-title="National",TVOne HD
-https://op-group1-densxvisionhd-1.dens.tv/h/h40/01.m3u8|User-Agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&Referer=https://www.dens.tv/&Origin=https://www.dens.tv
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpc9fbG79uZOmieX7ri7X4248xNtPaUM7sTvUQMWJ3tEIURjM6BJFNISBEfqKHthvIWtNbenBt5SkDfap-a09-pzXm5P5v_KvzmEAlwTcJcj-Stko4lvWXE3WwdFV6hbLTwyV3Vrcb5HU70OnttE72yeqejhC-I161jymx9uSXnutX768UuHfLNzaLenk/s700/ANTV.png" group-title="National",ANTV
+https://iptv.lancartech.co.id:443/dtr56789/abd33333/1
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png" group-title="National",TVOne HD
 https://op-group1-densxvisionhd-1.dens.tv/h/h40/01.m3u8|User-Agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&Referer=https://www.dens.tv/&Origin=https://www.dens.tv
