@@ -245,10 +245,7 @@ http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4oZ_FTf9wGwZ3HxAFmxh1ng|User-Agent=V
 #EXTINF:-1 xui-id="38" tvg-id="" tvg-name="HITS MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8WFaYm0vrVuig8hygl3IjtpOVw2VlGqrLheOkxoTlBmC40tyRsvf6TwTodCUc8RUBj1IEpWvlJaTNYbbojwZh-PnVnpcIb0i9VPnaDSt8O4_PvB08JhSk6aW0bz9NqOwvOffmvAMXnAuLRSCVyaSgZfqXCATMi-eGbdIY5wuJoYjveqD37i9E92hl7yU/s700/HitsMovies.png" group-title="Movies TV",Hits Movies
 http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4uIKb5jr_E6ic3jYG-lTvq8
 
-#EXTINF:-1 tvg-id="NEWKPOP.us@SD" tvg-logo="https://i.imgur.com/B7ILXMc.png" group-title="Music",NEW K-POP (1080p)
-https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
-
-#EXTINF:-1 tvg-id="NEWKMOVIES.us@SD" tvg-logo="https://i.imgur.com/wCgirjc.png" group-title="Movies",NEW K.MOVIES (1080p)
+#EXTINF:-1 tvg-id="NEWKMOVIES.us@SD" tvg-logo="https://i.imgur.com/wCgirjc.png" group-title="Movies TV",NEW K.MOVIES (1080p)
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -277,6 +274,9 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="PlutoTVAnime.us" tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Pluto_TV_logo_2024_black.svg" group-title="Kids TV",Pluto TV Anime
 https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
+
+#EXTINF:-1 tvg-id="Crunchyroll.us@SD" tvg-logo="https://i.imgur.com/2FlIQUO.png" group-title="Kids TV",Crunchyroll (720p)
+https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsI3IieBzN9pkk6qoaN819ymhllQ_i0_QeW_B9q2a5AHIJCVv0rLkwPhbqKjiNOUUMv0grvG8ZEZIpKpnJJTc2lxXrWzDUNPFaLhIEwp9MX5IIe7C-3CPjjvmhoRlhq88_Dr_IC6x5Z7nRLfeSdDM_mYqqv_RJMfWmoy0RZEGeafkptyGAWhuNAgByh8c/s700/EnglishStudy.png" group-title="Kids TV",English Study
 https://flv.intechmedia.net/live/ch83.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -427,6 +427,9 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/
 
 #EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFBmcEbN3dEZjePpC1XcJQWzHPNGSe2COFbQsc1zUpHB-z2hkEUjd4wuQocGuqGOLfb-azU9Dei_MFLobtWcNCN0cKYZK1YwehX19zrRhuaxyJSFQQXp4e_8XBykdOSrZQ0BJY4YzYN9VAVSvfvI8dYPvhnRu1mxJKhnU_xch7i32pdIkC5Esd1FPP6XY/s700/AXN.png" group-title="Entertainment",AXN
 https://proxy-v.rctiplus.id/live/web/axn/index.m3u8|Referer=https://www.rctiplus.com/
+
+#EXTINF:-1 tvg-id="NEWKPOP.us@SD" tvg-logo="https://i.imgur.com/B7ILXMc.png" group-title="Entertainment",NEW K-POP (1080p)
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
