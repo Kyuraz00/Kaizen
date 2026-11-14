@@ -143,57 +143,29 @@ http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f5
 🔸🔸 Koleksi Bein Sports 🔸🔸
 //========================================================================
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-name="beIN SPORTS XTRA (1080p)" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Bein Sports",beIN SPORTS XTRA (1080p)
-https://bein-xtra-bein.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Beinsports.Xtra.us" tvg-name="Beinsports Xtra" tvg-logo="" group-title="Bein Sports",Beinsports Xtra
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bein.Sports.1...Serbia..FIFA.us" tvg-name="Bein Sports 1 - Serbia (FIFA)" tvg-logo="" group-title="Bein Sports",Bein Sports 1 - Serbia (FIFA)
-http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 1 4K+" group-title="Bein Sports",(TR) Bein Sports 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174902
 
-#EXTINF:-1 group-title="Bein Sports",v.Bein Sport 1 Atomsport
-https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 2 4K+" group-title="Bein Sports",(TR) Bein Sports 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174903
 
-#EXTINF:-1 group-title="Bein Sports",v.Bein Sport 1 Atomsport a
-https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 3 4K+" group-title="Bein Sports",(TR) Bein Sports 3 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174904
 
-#EXTINF:-1 group-title="Bein Sports",v.Bein Sport 1 NetSpor b
-https://netspor.tecostream.xyz/bs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 4 4K+" group-title="Bein Sports",(TR) Bein Sports 4 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174905
 
-#EXTINF:-1 group-title="Bein Sports",v.Bein Sport 1 Selçuk
-https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/selcukbeinsports1/playlist.m3u8?_HLS_skip=YES
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 5 4K+" group-title="Bein Sports",(TR) Bein Sports 5 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174906
 
-#EXTINF:-1 group-title="Bein Sports",v.Bein Sport 1 Selçuk a
-https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/selcukobs1/playlist.m3u8?_HLS_skip=YES
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports Max 1 4K+" group-title="Bein Sports",(TR) Bein Sports Max 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174907
 
-#EXTINF:-1 group-title="Bein Sports",v.Bein Sport 1 Selçuk a proxy
-https://turkuaz.tecostream.xyz/proxy?url=https://calm-cell-7dd5.evtvtv534.workers.dev/selcukbeinsports1.m3u8
-
-#EXTINF:-1 group-title="Bein Sports",v.Bein Sport 1 Selçuk a proxy b
-https://turkuaz.tecostream.xyz/proxy?url=https://calm-cell-7dd5.evtvtv534.workers.dev/selcukobs1.m3u8
-
-#EXTINF:-1 group-title="Bein Sports",v.Bein Sport 1 Sporcafe b
-https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/sbeinsports-1/playlist.m3u8?_HLS_skip=YES
-
-#EXTINF:-1 group-title="Bein Sports",v.Bein Sport 2 Atomsport
-https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
-
-#EXTINF:-1 group-title="Bein Sports",v.Bein Sport 2 Sporcafe
-https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/sbeinsports-2/playlist.m3u8?_HLS_skip=YES
-
-#EXTINF:-1 group-title="Bein Sports",v.Bein Sport 3 Atomsport
-https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/bein-sports-3.m3u8
-
-#EXTINF:-1 group-title="Bein Sports",v.Bein Sport 3 Sporcafe
-https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/sbeinsports-3/playlist.m3u8?_HLS_skip=YES
-
-#EXTINF:-1 group-title="Bein Sports",v.Bein Sport 4 Atomsport
-https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/bein-sports-4.m3u8
-
-#EXTINF:-1 group-title="Bein Sports",v.Bein Sport 4 Sporcafe
-https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/sbeinsports-4/playlist.m3u8?_HLS_skip=YES
-
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports Max 2 4K+" group-title="Bein Sports",(TR) Bein Sports Max 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174908
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [END] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 //========================================================================
