@@ -146,26 +146,23 @@ http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f5
 #EXTINF:-1 tvg-id="Beinsports.Xtra.us" tvg-name="Beinsports Xtra" tvg-logo="" group-title="Bein Sports",Beinsports Xtra
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 1 4K+" group-title="Bein Sports",(TR) Bein Sports 1 4K+
-http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174902
+#EXTINF:-1 group-title="Bein Sports",TR: beIN Sports MAX 1
+http://cmskos.fastiptv.org:777/Ekremi_Belgjik/K1zy2KjUFf/106
 
-#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 2 4K+" group-title="Bein Sports",(TR) Bein Sports 2 4K+
-http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174903
+#EXTINF:-1 group-title="Bein Sports",TR: beIN Sports MAX 2
+http://cmskos.fastiptv.org:777/Ekremi_Belgjik/K1zy2KjUFf/105
 
-#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 3 4K+" group-title="Bein Sports",(TR) Bein Sports 3 4K+
-http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174904
+#EXTINF:-1 group-title="Bein Sports",TR: BEIN SPORTS 1 HD
+http://cmskos.fastiptv.org:777/Ekremi_Belgjik/K1zy2KjUFf/2998
 
-#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 4 4K+" group-title="Bein Sports",(TR) Bein Sports 4 4K+
-http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174905
+#EXTINF:-1 group-title="Bein Sports",TR: BEIN SPORTS 2 HD
+http://cmskos.fastiptv.org:777/Ekremi_Belgjik/K1zy2KjUFf/2999
 
-#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports 5 4K+" group-title="Bein Sports",(TR) Bein Sports 5 4K+
-http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174906
+#EXTINF:-1 group-title="Bein Sports",TR: BEIN SPORTS 3 HD
+http://cmskos.fastiptv.org:777/Ekremi_Belgjik/K1zy2KjUFf/3000
 
-#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports Max 1 4K+" group-title="Bein Sports",(TR) Bein Sports Max 1 4K+
-http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174907
-
-#EXTINF:-1 tvg-id="" tvg-name="(TR) Bein Sports Max 2 4K+" group-title="Bein Sports",(TR) Bein Sports Max 2 4K+
-http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/174908
+#EXTINF:-1 group-title="Bein Sports",TR: BEIN SPORTS 4 HD
+http://cmskos.fastiptv.org:777/Ekremi_Belgjik/K1zy2KjUFf/3001
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [END] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
