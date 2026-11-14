@@ -18,6 +18,12 @@ https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://shorter.me/TmD2e", 07:00 WIB Kumamoto Masters Japan 2026
 https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=f2b9f6da4c59b98d8c310f0625386b33&wsABSTime=1794414455|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36&Referer=https://xlz.domainkqt.cc/
 
+#EXTINF:-1 tvg-name="CCTV-5+ Sports Events" group-title="LIVE",CCTV-5+ Sports Events
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
+
+#EXTINF:-1 tvg-name="CCTV-5+ Sports Events" group-title="LIVE",CCTV-5+ Sports Events II
+http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+
 //========================================================================
 // Koleksi TV Lokal
 //========================================================================
