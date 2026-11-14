@@ -54,11 +54,12 @@ https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8|User-Agen
 #EXTINF:-1 tvg-id="Trans7.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="National",Trans7
 https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36&Referer=https://www.cnbcindonesia.com/&Origin=https://20.detik.com
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpc9fbG79uZOmieX7ri7X4248xNtPaUM7sTvUQMWJ3tEIURjM6BJFNISBEfqKHthvIWtNbenBt5SkDfap-a09-pzXm5P5v_KvzmEAlwTcJcj-Stko4lvWXE3WwdFV6hbLTwyV3Vrcb5HU70OnttE72yeqejhC-I161jymx9uSXnutX768UuHfLNzaLenk/s700/ANTV.png" group-title="National",ANTV
-https://iptv.lancartech.co.id:443/dtr56789/abd33333/1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="National",ANTV
+https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash|User-Agent=VidioPlayer/6.31.6&Referer=http://www.vidio.com/&Origin=http://www.vidio.com
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" group-title="National" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7gCLwuHSWz44c8axvZma__7nR6WDHBxRXwPGVsD6SkUp-7_Zx8dDPskIanYQ-rOkqm7E4OBG6tfNKkyZyxy1q8D8ybEonjv1J8QGRvc0APB32FY9XdNEH1OfnGW1858xueHUAB4hF50j_7lLYKdanwkevByWTbAUA1zorOxc8QiDMae3gGop7gjTrXLs/s700/1000126905.jpg",ANTV II
-https://iptv.lancartech.co.id:443/WawanJKT82/12345678/1
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="National",ANTV II
+https://beetv.my.id/xstreamx/vd.m3u8?ch=antv|User-Agent=VidioPlayer/6.31.6&Referer=http://www.vidio.com/&Origin=http://www.vidio.com
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png" group-title="National",TVOne HD
 https://op-group1-densxvisionhd-1.dens.tv/h/h40/01.m3u8|User-Agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&Referer=https://www.dens.tv/&Origin=https://www.dens.tv
